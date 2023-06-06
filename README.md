@@ -7,3 +7,4 @@
 
 - 📫 How to reach me **gmaxgomes@gmail.com**
 
+- Check out my portfolio: https://gabrielmaxgb-arena.vercel.app/
