@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    <a href="https://gabrielmaxgb-arena.vercel.app/">me</a> .
+    <a href="https://gabrielmaxgb.github.io/gabrielmaxgb-arena/">me</a> .
     <a href="">blog</a> .
     <a href="">projects</a> .
     <a href="https://www.pros4noobs.com/">pros4noobs</a> .
