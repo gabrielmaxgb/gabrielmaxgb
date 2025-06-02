@@ -4,9 +4,6 @@
     <a href="https://gabrielmaxgb.github.io/gabrielmaxgb-arena/blog" target="_blank">blog</a> .
     <a href="" target="_blank">projects</a> .
     <a href="https://www.pros4noobs.com/" target="_blank">pros4noobs</a> .
-<!--     <a href="">podcasts</a> . -->
-    <a href="https://www.instagram.com/_gabriellmax/">instagram</a> 
-<!--     . -->
-<!--     <a href="">sponsor</a> -->
+    <a href="https://www.instagram.com/_gabriellmax/" target="_blank">instagram</a>
   </samp>
 </p>
